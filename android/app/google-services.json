@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "809494714075",
+    "project_id": "feedback-app-ddeab",
+    "storage_bucket": "feedback-app-ddeab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809494714075:android:c6567ed376847e2d299efe",
+        "android_client_info": {
+          "package_name": "com.example.feedback_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3varuHNM65D85XjtiRQsC_SA65j5juQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
